@@ -13,6 +13,7 @@ peer.on("connection", function(c){
    }
    //log data send from other peer
    c.on("data", function(data){
+      //for adoption: further data/message processing comes here
       console.log("RECEIVED:", data);
    });
    //logs any error from the connection that may occur 
