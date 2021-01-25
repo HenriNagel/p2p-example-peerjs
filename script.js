@@ -1,4 +1,4 @@
-let peer = new Peer(); //generate a peer can connect to other peers and listen for connections
+let peer = new Peer(); //generate a peer can connect to other peers and listen for connection
 let otherPeerID; //Peer ID from peers to connect to  
 let conn;   //the connection between peers
 
