@@ -1,6 +1,6 @@
 # Simple Peer-to-Peer connection example with PeerJS 
 
-Just a simple example of a Peer-to-Peer (a simplification of WebRTC) connection using PeerJS, that can be easily adopted in other projects..
+Just a simple example of a Peer-to-Peer (a simplification of WebRTC) connection using PeerJS, that can be easily adopted in other projects.:)
 
 
 ## Usage 
